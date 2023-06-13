@@ -1,4 +1,0 @@
-src/main/resources폴더에 mybatis사용을 위한 xml파일 생성시 아래의 코드 추가
-
-<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="kr.hkit.mapper.BoardMapper"> <!-- 수정해서 사용 -->
